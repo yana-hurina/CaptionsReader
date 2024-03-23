@@ -1,0 +1,6 @@
+pip install Pillow
+pip install PySide6
+pip install python-docx
+pip install easyocr
+pip install numpy
+pip install pyinstaller==5.13.2
